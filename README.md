@@ -1,6 +1,7 @@
 # AI-Game
 
 A game developed in Unity using C# scripts. 
+
 The purpose of the game is to develop a game implementing AI behaviours in my second year.
 
 Some of the behaviours that I implemented are:  
